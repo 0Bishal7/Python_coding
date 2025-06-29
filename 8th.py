@@ -7,7 +7,7 @@ def second_largest(l):
     for num in l:
         if num > largest:
             second=largest
-            print(second)
+            # print(second)
             largest=num
             # second=largest
 
